@@ -1,0 +1,10 @@
+{
+	"Simülasyon":{
+		"value" : 0,
+		"kategori":"Simülasyon"
+	},
+	"Fps":{
+		"value" : 1,
+		"kategori":"Fps"
+	}
+}
